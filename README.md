@@ -23,7 +23,7 @@ A window titled "Virtual Mouse" will open, showing your webcam feed with hand la
 	3.Press Esc key to exit the application.
 
 ## Note:
-1.Ensure proper lighting conditions for better hand detection.
-2.Adjust the sensitivity thresholds in the script if necessary.
-3.This script may require calibration for optimal performance based on individual hand sizes and gestures.
+	1.Ensure proper lighting conditions for better hand detection.
+	2.Adjust the sensitivity thresholds in the script if necessary.
+	3.This script may require calibration for optimal performance based on individual hand sizes and gestures.
 
