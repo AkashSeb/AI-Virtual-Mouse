@@ -11,13 +11,13 @@ Make sure you have the following dependencies installed:
 - MediaPipe (`pip install mediapipe`)
 - PyAutoGUI (`pip install pyautogui`)
 
-## Usage
+## Run the code:
 
 
 A window titled "Virtual Mouse" will open, showing your webcam feed with hand landmarks overlaid.
 
 ## Use your hand gestures to control the mouse cursor:
-## Run the Script:
+## Usage
 	1.Move your index finger to move the cursor.
 	2.Bring your index finger close to your middle finger to simulate a click.
 	3.Press Esc key to exit the application.
